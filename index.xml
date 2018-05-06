@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario Weigel</title>
+    <link>https://mweigel.github.io/</link>
+    <description>Recent content on Mario Weigel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 May 2018 14:39:45 +1200</lastBuildDate>
+    
+	<atom:link href="https://mweigel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://mweigel.github.io/about/</link>
+      <pubDate>Sun, 06 May 2018 14:39:45 +1200</pubDate>
+      
+      <guid>https://mweigel.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
